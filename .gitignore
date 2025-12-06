@@ -1,0 +1,13 @@
+# Build artifacts
+/target
+
+# Editor/OS files
+.DS_Store
+*.swp
+*.swo
+
+# Cargo
+**/Cargo.lock
+
+# Ref material
+/ref
